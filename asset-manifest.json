@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/taskmongo/static/css/main.31d6cfe0.css",
+    "main.js": "/taskmongo/static/js/main.d5f80af4.js",
+    "index.html": "/taskmongo/index.html",
+    "main.d5f80af4.js.map": "/taskmongo/static/js/main.d5f80af4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d5f80af4.js"
+  ]
+}
